@@ -1,0 +1,56 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 1px 2px #eee;
+    padding-left: 100px;
+    padding-right:100px;
+}
+
+.second-child{
+    display: flex;
+    justify-content: space-between;
+    font-size: 18x;
+    cursor: pointer;
+
+}
+
+.logo-img{
+    padding-top: 15px;
+    height: 20px;
+}
+
+.elements{
+    padding: 20px;
+    color: #666;
+}
+
+.button{
+    color: white;
+    background-color: #387ed1;
+    cursor: pointer;
+    border: 1px solid rgba(0,0,0,0);
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    font-size: 20px;
+
+    
+}
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+}
+.content{
+    margin-top: 2px;
+}
+
+h1{
+    font-weight: 300;
+}
+
+h3{
+    font-weight: 100 ;
+}
